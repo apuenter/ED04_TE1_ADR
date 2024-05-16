@@ -16,6 +16,10 @@ package com.mycompany.ud4_te1;
 public class Main {
 
     public static void main(String[] args) {
+        operativaCuenta();
+    }
+
+    public static void operativaCuenta() {
         CCuenta cuentaTrabajo;
         double saldoActual;
 
