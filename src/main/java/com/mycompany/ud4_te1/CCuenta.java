@@ -1,3 +1,16 @@
+  /******************************************************************************************************************
+   
+     Nombre:   Ainhoa de la Puente     
+     Fecha:    16/05/2024
+     Modulo:   Entornos de Desarrollo.
+     UD:       UD04 Optimización y documentación.
+     Tarea:    ED04 Tarea Evaluativa 1. Aplicando el control de versiones, la refactorización y la documentación
+     de aplicaciones Java (100%).
+     Autoevaluación: 
+     URL del Proyecto en GitHub: https://github.com/apuenter/ED04_TE1_ADR.git
+                                           
+   *******************************************************************************************************************/
+
 package com.mycompany.ud4_te1;
 
 public class CCuenta {
@@ -5,7 +18,7 @@ public class CCuenta {
     private String nombre;
     private String cuenta;
     private double saldo;
-    private double tipoInterés;
+    private double tipoInteres;
 
 
     public CCuenta() {
@@ -56,11 +69,11 @@ public class CCuenta {
         this.nombre = nombre;
     }
 
-    public double getTipoInterés() {
-        return tipoInterés;
+    public double getTipoInteres() {
+        return tipoInteres;
     }
 
-    public void setTipoInterés(double tipoInterés) {
-        this.tipoInterés = tipoInterés;
+    public void setTipoInteres(double tipoInteres) {
+        this.tipoInteres = tipoInteres;
     }
 }
