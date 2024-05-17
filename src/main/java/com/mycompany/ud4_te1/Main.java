@@ -6,7 +6,7 @@
      UD:       UD04 Optimización y documentación.
      Tarea:    ED04 Tarea Evaluativa 1. Aplicando el control de versiones, la refactorización y la documentación
      de aplicaciones Java (100%).
-     Autoevaluación: 
+     Autoevaluación: https://docs.google.com/document/d/1wPwEiBb8zuDSa_R7C-GVfcLbtL3vyyKifzcEo21P3yo/edit?usp=sharing
      URL del Proyecto en GitHub: https://github.com/apuenter/ED04_TE1_ADR.git
                                            
    *******************************************************************************************************************/
